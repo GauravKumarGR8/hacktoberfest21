@@ -8,6 +8,8 @@
 |---|---|---|---|---|
 | Andrea Griffiths | [@andreagriffiths11](https://github.com/andreagriffiths11) | Senior Product Manager | Eastern (-5) | ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) |
 	
+|---|---|---|---|---|
+| Gaurav Kumar | [@GauravKrGR8](https://github.com/GauravKumarGR8) | Sophomore | UTC+05:30 | ![](https://avatars.githubusercontent.com/gauravkumargr8?s=64) |
 	
 	
 	
